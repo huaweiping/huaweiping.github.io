@@ -21,7 +21,7 @@ title                    : "Weiping's home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Weiping Hua"
-description              : "Currently a Postdoc in Hangzhou"
+description              : "A small funny place"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -117,7 +117,7 @@ author:
   name             : "Weiping Hua"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person (maybe?)."
-  location         : "China"
+  location         : "Hangzhou, China"
   email            : 
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
